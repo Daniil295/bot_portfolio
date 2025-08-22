@@ -3,7 +3,8 @@
 ### дать название
 #### сделать ему описание 
 ##### исправлять код прямо в телеграме 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8fd49b5c-fdaf-451e-ae8f-1f6d610a8080" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/95403c94-0800-485c-9c2e-3b37f98d3b06" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9baddba6-3b33-45c8-a411-e1cbed1a5ccd" />
+<img width="937" height="919" alt="image" src="https://github.com/user-attachments/assets/b2c8a3ea-b6f0-42b8-bb0b-50d2c1f02ae2" />
+<img width="941" height="585" alt="image" src="https://github.com/user-attachments/assets/28f0ccee-4e4d-4733-81db-1962d7e5ded1" />
+<img width="938" height="908" alt="image" src="https://github.com/user-attachments/assets/2ebf8b60-eb10-461c-a067-a0c49bbfbf13" />
+<img width="929" height="905" alt="image" src="https://github.com/user-attachments/assets/11c767da-4ad9-481a-8523-152bd3d1de7a" />
 
